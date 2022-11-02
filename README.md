@@ -1,3 +1,12 @@
+# Project Presentation
+This is a React School project created by four group members in an alphabitic order: 
+Fouad Zouraibi, Haider Jouini, Souhail Ziyadi, Yassin Lgaout.
+	Which each member with it’s own task as presented below :
+
+    • Fouad Zouraibi : Liste de mes annonces (utilisateurs connectés) , Edition/Création d’une annonce (utilisateurs connectés).
+    • Haider Jouini : Page de connexion, Page de création du compte.
+    • Souhail Ziyadi : Page d’accueil présentant le service, Page de recherche (avec filtres).
+    • Yassin Lgaout : ….
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
