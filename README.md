@@ -1,9 +1,9 @@
 # Members of group
 
-• Fouad Zouraibi : Liste de mes annonces (utilisateurs connectés) , Product page
-• Haider Jouini : Page de connexion, Page de création du compte. 
-• Souhail Ziyadi : Page d’accueil présentant le service, Page de recherche (avec filtres). 
-• Yassin Lgaout :  ...
+Fouad Zouraibi : Liste de mes annonces (utilisateurs connectés) , Product page.
+Haider Jouini : Page de connexion, Page de création du compte. 
+Souhail Ziyadi : Page d’accueil présentant le service, Page de recherche (avec filtres). 
+Yassin Lgaout :  ...
 
 
 # Getting Started with Create React App
