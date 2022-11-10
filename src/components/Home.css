@@ -1,0 +1,43 @@
+.d-block{
+    width: 65%;
+    height:60%;
+    margin-left: 18%;
+    border-radius: 5px;
+    
+
+}
+.h5{
+    border-radius: 5px;
+    
+    color: rgb(23, 23, 24);
+    background-color: aliceblue;
+    width: 20%;
+    height: 90%;
+    margin-left: 40%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(1, 141, 255, 0.23) 0px 3px 6px;   
+}   
+.col-1{
+    width: 20%;
+    margin-right: 15%;
+    margin-left: 4%;
+}
+.col-2{
+    width: 20%;
+    margin-right: 15%;
+    margin-left: 4%;
+
+}
+.col-3{
+    width: 20%;
+    margin-right: 15%;
+    margin-left: 4%;
+    
+}
+.space{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.body{
+    background-color: rgb(255, 255, 255);
+}
+
