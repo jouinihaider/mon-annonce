@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import logo from './logo.svg';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Auth from './Auth';
+import { Annonce } from "./Components/Annonce";
 
 function App() {
   return (
@@ -10,6 +10,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/auth" element={<Auth />} />
+        {/* WE NEED TO WRAP ANNONE IN OUT LAYOUT */}
+        <Route path="/annonce" element={<Annonce />} />
       </Routes>
     </BrowserRouter>
     </div>
